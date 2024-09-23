@@ -1,4 +1,4 @@
-#Análise Vendas Varejo
+# Análise Vendas Varejo
 
 Uma loja de Varejo deseja criar algumas métricas para acompanhar seus resultados, possuem a base de vendas e base de clientes.
 
