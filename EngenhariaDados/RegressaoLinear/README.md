@@ -1,6 +1,6 @@
 # Regressão linear
 
-## Utilizando a regreção linear com a biblioteca Sklearn
+## Utilizando regreção linear com a biblioteca Sklearn
 
 ---
 
